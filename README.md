@@ -12,3 +12,5 @@ This repository contains Python scripts to generate QR codes:
 Install using:
 ```bash
 pip install qrcode[pil]
+
+
